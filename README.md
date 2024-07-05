@@ -1,2 +1,4 @@
 # s14-analise-mundo-real
-Semana 14 - Análise do Mundo Real 
+Entrega da atividade da Semana 14 de análise de dados com Python. 
+
+Foram anlaisadas 04 bases da Olist e feitas análises de venda. 
